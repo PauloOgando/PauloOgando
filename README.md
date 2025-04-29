@@ -18,7 +18,7 @@
 - :video_game: I am very passionate about game development
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Software Engineering Portfolio]().
-- :man_technologist: You can visit [My Game Development Portfolio](pauloog.com).
+- :man_technologist: You can visit [My Game Development Portfolio](https://pauloog.com).
 <br>
 
 <!-- Stats -->
