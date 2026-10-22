@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm Paulo Ogando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Graduate+Software+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Cybersecurity+%7C+Technology+Risk+%26+Compliance;Software+Engineer+%7C+MSc+Cybersecurity+Candidate" alt="Typing SVG" /></a>
 </p>
 
 <!--Intro start-->
@@ -14,11 +14,14 @@
 
 <br><br>
 
-- :school: I recently graduated as a `Software Engineer` at [Instituto Tecnológico y de Estudios Superiores de Monterrey.](https://tec.mx/es?srsltid=AfmBOopgY1wXuEaZAradDwZgt9g_O2VnPePiZJFh3CmsncRzHRV2EsL2).
-- :video_game: I am very passionate about game development
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [My Software Engineering Portfolio]().
-- :man_technologist: You can visit [My Game Development Portfolio](https://pauloog.com).
+- :round_pushpin: Based in `Madrid, Spain`.
+- :school: `Software Engineer` (Computer Science and Technology) from [Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es), 2024.
+- :mortar_board: Pursuing the Official `Master's in Cybersecurity` at [Universidad Europea de Madrid](https://universidadeuropea.com/master-ciberseguridad-madrid/) (Oct 2026 - Jul 2027).
+- :briefcase: Former `Advisory Cyber Strategy Consultant` at Deloitte (Feb 2025 - Oct 2026): CNBV authorization processes, IT control framework assessments (NIST, ISO) and technical regulatory documentation for financial institutions.
+- :shield: Certified: `ISC2 Certified in Cybersecurity (CC)`.
+- :nerd_face: Always `learning new things`: now moving towards technical security (SOC, security engineering) with hands-on labs on TryHackMe.
+- :video_game: Game development background (Unity / C#). You can visit [My Game Development Portfolio](https://pauloog.com).
+- :thinking: I'm `open to internships and junior roles` in cybersecurity (security operations, technology risk, security engineering) in Madrid.
 <br>
 
 <!-- Stats -->
