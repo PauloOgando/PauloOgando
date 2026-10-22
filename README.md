@@ -45,9 +45,24 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,blender,cpp,css,cs,clojure,express,figma,git,github,gcp,html,js,kotlin,mongodb,mysql,nodejs,postman,py,react,ts,unity,unreal,vscode&perline=14" />
-  </a>
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts" />
+</p>
+<p align="center">
+  <b>Web</b><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+<p align="center">
+  <b>Data &amp; Cloud</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+</p>
+<p align="center">
+  <b>Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
+</p>
+<p align="center">
+  <b>Networking</b><br>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 </p>
 
 <!--Socials-->
