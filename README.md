@@ -20,7 +20,7 @@
 - :briefcase: Former `Advisory Cyber Strategy Consultant` at Deloitte (Feb 2025 - Oct 2026): CNBV authorization processes, IT control framework assessments (NIST, ISO) and technical regulatory documentation for financial institutions.
 - :shield: Certified: `ISC2 Certified in Cybersecurity (CC)`.
 - :nerd_face: Always `learning new things`: now moving towards technical security (SOC, security engineering) with hands-on labs on TryHackMe.
-- :video_game: Game development background (Unity / C#). You can visit [My Game Development Portfolio](https://pauloog.com).
+- :video_game: Game development background (Unity / C#).
 - :thinking: I'm `open to internships and junior roles` in cybersecurity (security operations, technology risk, security engineering) in Madrid.
 <br>
 
